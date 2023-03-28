@@ -18,4 +18,3 @@ for (let i = 1; i < 6; ++i) {
     }console.log(resultado);
 }// no le muevas, ya quedo
 console.log("Ejercicio 3");
-while
